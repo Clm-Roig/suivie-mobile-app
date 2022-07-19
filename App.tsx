@@ -1,5 +1,3 @@
-import { StatusBar } from "expo-status-bar";
-import { Dimensions, Text, View } from "react-native";
 import { WebView } from "react-native-webview";
 import Constants from "expo-constants";
 
